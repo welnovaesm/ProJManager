@@ -1,0 +1,18 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\welder.miranda.ps\\Downloads\\jfoenix-8.0.10.jar",
+    "c:\\Users\\welder.miranda.ps\\Downloads\\jmetro-11.6.15.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.base.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.controls.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.fxml.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.graphics.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.media.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.swing.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.web.jar",
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx-swt.jar"
+  ],
+  "explorer.compactFolders": false
+}
