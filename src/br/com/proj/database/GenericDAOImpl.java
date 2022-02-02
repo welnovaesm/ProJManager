@@ -76,9 +76,10 @@ public class GenericDAOImpl<T, ID extends Serializable> implements GenericDAO<T,
             throw new DatabaseException(e, "Incapaz de executar o comando 'create' no banco de dados" + e.getMessage());
         } finally {
             try {
-
+                if (statement != null)
+                    statement.close();
             } catch (Exception e) {
-                // TODO: handle exception
+                logger.log(Level.SEVERE, "Error: ", e);
             }
         }
 

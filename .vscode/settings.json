@@ -12,8 +12,12 @@
     "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.media.jar",
     "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.swing.jar",
     "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx.web.jar",
+<<<<<<< HEAD
     "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx-swt.jar",
     "c:\\Users\\welder.miranda.ps\\Downloads\\mariadb-java-client-3.0.3.jar"
+=======
+    "c:\\Users\\welder.miranda.ps\\Documents\\Configuracoes de Ambiente\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\\javafx-swt.jar"
+>>>>>>> 893e8f81c16b8fa7441a2478e5a5bfeeecaab57c
   ],
   "explorer.compactFolders": false
 }
